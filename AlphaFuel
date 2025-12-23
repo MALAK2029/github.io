@@ -1,0 +1,33 @@
+# github.io[index.html](https://github.com/user-attachments/files/24305232/index.html)
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alpha Fuel Gym Supplements</title>
+  <style>
+    body{font-family:Arial;direction:rtl;text-align:center;background:#f6f6f6;margin:0;padding:0}
+    .box{background:#fff;width:92%;max-width:420px;margin:40px auto;padding:18px;border-radius:14px;box-shadow:0 6px 16px rgba(0,0,0,.08)}
+    img{width:100%;border-radius:12px}
+    h1{margin:12px 0 6px}
+    p{color:#444;line-height:1.8}
+    .price{font-size:20px;font-weight:bold;margin:10px 0}
+    .btn{display:block;background:#25D366;color:#fff;padding:14px;margin-top:14px;text-decoration:none;border-radius:10px;font-size:18px}
+    .note{font-size:12px;color:#777;margin-top:10px}
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Creatine</h1>
+    <img src="https://via.placeholder.com/800x600.png?text=Product+Image" alt="صورة المنتج">
+    <p>منتج يساعد علي زيادة القوة العضلية و الحجم العضلي و سرعة الاستشفاء.</p>
+    <div class="price">السعر: 550 جنيه</div>
+
+    <a class="btn" href="https://wa.me/201029688648?text=عايز%20اطلب%20اسم%20المنتج" target="_blank">
+      اطلب الآن على واتساب
+    </a>
+
+    <div class="note">هتبدّل رقم الواتساب واسم المنتج بعدين.</div>
+  </div>
+</body>
+</html>
